@@ -51,8 +51,8 @@ The toolkit is broken down into 5 sequential scripts, separating Data Extraction
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/freddyantony/healthcare-uc-automation.git
-cd healthcare-uc-automation/cucm-15-upgrade-toolkit
+git clone https://github.com/freddyantony/cucm-upgrade-readiness-audit.git
+cd cucm-upgrade-readiness-audit
 ```
 
 ### 2. Install Python dependencies
